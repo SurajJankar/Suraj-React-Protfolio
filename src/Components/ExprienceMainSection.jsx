@@ -1,11 +1,16 @@
+import FirstSection from "./FirstSection";
+import SecoundSection from "./SecoundSection";
+import ThiredSection from "./ThiredSection";
+
 function ExprienceMainSection(){
     return(
         <>
-        <section>
-            <div className="container">
-                
+        <div className="container ml-3 mt-3 justify-content-center">
+            <div className="row">
+                <ThiredSection></ThiredSection>
+                <SecoundSection></SecoundSection>
             </div>
-        </section>
+        </div>
         </>
     );
 }
