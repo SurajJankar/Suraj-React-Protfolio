@@ -1,0 +1,35 @@
+.navbar{
+    background: rgba(0, 0, 0, 0.856);
+    padding: 0;
+    text-decoration: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.123);
+}
+
+.nav-link{
+    color: rgba(0, 0, 0, 0.767);
+    font-size: 11px;
+    margin-left: 1.5rem;
+}
+
+.nav-item{
+    text-align: center;
+    margin-left: 0px;
+}
+
+.fasolid{
+    font-size: 25px;
+}
+
+.active{
+    border-bottom: 2px solid white;
+}
+
+.nav-link:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: black;
+    border-bottom: 1px solid black;
+}

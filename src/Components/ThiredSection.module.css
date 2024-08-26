@@ -1,0 +1,22 @@
+.WidthOfFirst{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.281);
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.navlink{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.733);
+    margin: 2px;
+}
+
+.subtitlep{
+    color: rgba(71, 71, 71, 0.815);
+    font-size: 12px ;
+    margin-top: 1px;
+    margin-left: 5%;
+    margin-bottom: 0rem;
+}

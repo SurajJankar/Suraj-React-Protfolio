@@ -1,0 +1,30 @@
+.MyImage {
+    border-radius: 50%;
+    width: 90px;
+    margin: auto;
+}
+
+.subdetials {
+    color: rgba(0, 0, 0, 0.733);
+    font-size: 14px;
+}
+
+.educationDetails {
+    font-size: 13px;
+    align-items: center;
+}
+
+.CollegeLogo {
+    width: 40px;
+}
+
+.WidthOfFirst {
+    position: sticky;
+    top: 72px; /* Keeps the element at the top of the viewport */
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.281);
+    z-index: 1001; /* Ensure it stays above other content */
+    padding: 10px; /* Optional: adds some spacing around content */
+}

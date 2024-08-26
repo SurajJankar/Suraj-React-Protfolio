@@ -1,0 +1,43 @@
+*{
+  font-family: "Inter", sans-serif;
+}
+
+#root{
+  background: #ffc0cb26;
+  padding-top: 56px;
+}
+
+.title{
+  font-size: 18px;
+  font-weight: 700;
+  color: #0a57ca;
+}
+
+/* Footer.css */
+
+footer {
+  text-align: center;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  margin-top: 10px;
+  background-color: #343a40; /* Dark background */
+  color: #ffffff; /* White text color */
+  padding: 10px 0; /* Padding for top and bottom */
+}
+
+.container-fluid {
+  margin: 0 auto; /* Center container */
+}
+
+.text-center {
+  text-align: center; /* Center text horizontally */
+}
+
+.text-white {
+  color: #ffffff; /* White text color */
+}
+
+.bg-dark {
+  background-color: #343a40; /* Dark background color */
+}
